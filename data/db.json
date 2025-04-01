@@ -1,288 +1,288 @@
 {
-  "products": [
-    {
-      "id": "10001",
-      "name": "Basics To Advanced In React",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 200,
-      "poster": "https://encrypted-tbn3.gstatic.com/shopping?q=tbn:ANd9GcSchn9Py6BlOe05c6njfBdY2goP6wXi02CDRWVH-MqLbv6a1o1fB6bNHky3hSs0YC8EivUCpRmT9jvqiyu-y3MVUUTAeff8uZYwy6CAzFZvz2p6iI-Zd8UtZQ",
-      "image_local": "/assets/images/10001.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 5,
-      "best_seller": true
-    },
-    {
-      "id": "10002",
-      "name": "Django Framework for Beginners",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 250,
-      "poster": "https://images.unsplash.com/photo-1580894894513-541e068a3e2b?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10002.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 2,
-      "best_seller": false
-    },
-    {
-      "id": "10003",
-      "name": "The Future of Design Systems",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 315,
-      "poster": "https://images.unsplash.com/photo-1523726491678-bf852e717f6a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10003.avif",
-      "rating": 3,
-      "in_stock": true,
-      "size": 1,
-      "best_seller": false
-    },
-    {
-      "id": "10004",
-      "name": "The Complete Guide to Backend Development",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 220,
-      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10004.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 7,
-      "best_seller": true
-    },
-    {
-      "id": "10005",
-      "name": "Build a Blockchain from Scratch in Go",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 250,
-      "poster": "https://images.unsplash.com/photo-1639322537228-f710d846310a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10005.avif",
-      "rating": 3,
-      "in_stock": true,
-      "size": 3,
-      "best_seller": false
-    },
-    {
-      "id": "10006",
-      "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 275,
-      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10006.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 10,
-      "best_seller": false
-    },
-    {
-      "id": "10007",
-      "name": "Master the Code Review",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 325,
-      "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10007.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 2,
-      "best_seller": false
-    },
-    {
-      "id": "10008",
-      "name": "JavaScript Basics To Advance With Alex",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 550,
-      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10008.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 3,
-      "best_seller": true
-    },
-    {
-      "id": "10009",
-      "name": "Python Deep Dive With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 400,
-      "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10009.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 3,
-      "best_seller": false
-    },
-    {
-      "id": "10010",
-      "name": "Mastering Software Technique",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 450,
-      "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10010.avif",
-      "rating": 4,
-      "in_stock": true,
-      "size": 1,
-      "best_seller": false
-    },
-    {
-      "id": "10011",
-      "name": "Web Development Foundation",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 375,
-      "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10011.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 3,
-      "best_seller": true
-    },
-    {
-      "id": "10012",
-      "name": "Mastering Git and GitHub - A Practical Guide",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 420,
-      "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10012.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 1,
-      "best_seller": false
-    },
-    {
-      "id": "10013",
-      "name": "Everything About React v16",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 330,
-      "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10013.avif",
-      "rating": 4,
-      "in_stock": false,
-      "size": 3,
-      "best_seller": false
-    },
-    {
-      "id": "10014",
-      "name": "Diving Deep With Python 2.7",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 380,
-      "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10014.avif",
-      "rating": 4,
-      "in_stock": false,
-      "size": 3,
-      "best_seller": false
-    },
-    {
-      "id": "10015",
-      "name": "Kickstart Your UI Design Career",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 500,
-      "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10015.avif",
-      "rating": 2,
-      "in_stock": false,
-      "size": 1,
-      "best_seller": false
-    }
-  ],
-  "featured_products": [
-    {
-      "id": "10004",
-      "name": "The Complete Guide to Backend Development",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 220,
-      "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10004.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 7,
-      "best_seller": true
-    },
-    {
-      "id": "10006",
-      "name": "Frontend Fastlane Plan With Projects",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 275,
-      "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10006.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 10,
-      "best_seller": false
-    },
-    {
-      "id": "10008",
-      "name": "JavaScript Basics To Advance With Alex",
-      "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-      "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-      "price": 550,
-      "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-      "image_local": "/assets/images/10008.avif",
-      "rating": 5,
-      "in_stock": true,
-      "size": 3,
-      "best_seller": true
-    }
-  ],
-  "orders": [
-    {
-      "cartList": [
-        {
-          "id": "10006",
-          "name": "Frontend Fastlane Plan With Projects",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 275,
-          "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10006.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 10,
-          "best_seller": false
-        },
-        {
-          "id": "10004",
-          "name": "The Complete Guide to Backend Development",
-          "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
-          "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
-          "price": 220,
-          "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
-          "image_local": "/assets/images/10004.avif",
-          "rating": 5,
-          "in_stock": true,
-          "size": 7,
-          "best_seller": true
-        }
-      ],
-      "amount_paid": 495,
-      "quantity": 2,
-      "user": {
-        "name": "Dhruvin",
-        "email": "dhruvindmehta@gmail.com",
-        "id": 1
+    "products": [
+      {
+        "id": "10001",
+        "name": "Bacca Bucci Jump Shoe",
+        "overview": "Bacca Bucci Jump Gym Shoes offer padded insoles for comfort, non-slip grip, and breathable material, making them perfect for running, training, and weightlifting. Available in Black:Orange, Black:White, and Blue.",
+        "long_description": "Upgrade your workout with Bacca Bucci Jump Gym Shoes—designed for comfort, durability, and performance. Featuring padded insoles, a non-slip outsole, and a lightweight, breathable build, these shoes provide excellent support for running, training, and weightlifting. Available in multiple sizes (UK 06-12) and stylish colors. Get yours at 50% off!",
+        "price": 1499,
+        "poster": "https://encrypted-tbn2.gstatic.com/shopping?q=tbn:ANd9GcQ0iMRyqTNm-JVuIkiYZhcOGGVXDaE8tlU2q2bPdDh9KhNxdpjeeNWvJAl1g7SOMoTH4nYOr-KxJBNZkp7LQmxcjTVD7LHW7G2OO4_HXvk&usqp=CAc",
+        "image_local": "/assets/images/10001.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 5,
+        "best_seller": true
       },
-      "id": 1
-    }
-  ],
-  "users": [
-    {
-      "email": "dhruvindmehta@gmail.com",
-      "password": "$2a$10$02kaQ7Fw42t8Hw0yhX88h.Wotom3QVih3ta7I/oTESb6c3K1JZPDy",
-      "name": "Dhruvin",
-      "id": 1
-    }
-  ]
-}
+      {
+        "id": "10002",
+        "name": "boAt Rockerz 650 Pro",
+        "overview": "boAt Rockerz 650 Pro delivers powerful sound, seamless Bluetooth connectivity, and long battery life for an immersive audio experience. Designed for comfort with soft ear cushions and a lightweight build.",
+        "long_description": "Experience premium sound with boAt Rockerz 650 Pro, featuring deep bass, crystal-clear audio, and long-lasting battery life for non-stop music. With Bluetooth connectivity, ergonomic design, and soft ear cushions, it ensures all-day comfort. Perfect for music lovers and gamers, this stylish headset is built for high-quality sound and durability.",
+        "price": 2,799,
+        "poster": "https://www.boat-lifestyle.com/cdn/shop/files/mainimage_458147a3-eabc-4816-a1c0-429c950422ad_1100x.png?v=1741067646",
+        "image_local": "/assets/images/10002.avif",
+        "rating": 4,
+        "in_stock": true,
+        "size": 2,
+        "best_seller": false
+      },
+      {
+        "id": "10003",
+        "name": "Fruit and Nuts Gift Hampers Pack of 6",
+        "overview": "A premium Fruit and Nuts Gift Hamper (Pack of 6) filled with high-quality dry fruits and nuts, perfect for gifting on special occasions.",
+        "long_description": "Treat your loved ones to a luxurious Fruit and Nuts Gift Hamper (Pack of 6), featuring a selection of premium dry fruits and nuts for a healthy and delicious treat. Perfect for festivals, celebrations, and corporate gifting, this elegantly packaged hamper is a thoughtful way to share taste and nutrition.",
+        "price": 1,119.00,
+        "poster": "https://www.ambriona.com/cdn/shop/products/ChocoatecoatedGiftHamper_1.png?v=1642762017",
+        "image_local": "/assets/images/10003.avif",
+        "rating": 3,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false
+      },
+      {
+        "id": "10004",
+        "name": "Holiday Cookie Box ",
+        "overview": "A delightful Holiday Cookie Box filled with freshly baked, assorted cookies, perfect for festive celebrations and gifting.",
+        "long_description": "Celebrate the season with a Holiday Cookie Box, featuring a delicious assortment of crispy, chewy, and buttery cookies in festive flavors. Perfect for gifting, sharing, or indulging, this beautifully packaged box brings warmth and sweetness to every holiday moment.",
+        "price": 220,
+        "poster": "https://constellationinspiration.com/wp-content/uploads/2016/12/CB-78-500x500.jpg",
+        "image_local": "/assets/images/10004.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 7,
+        "best_seller": true
+      },
+      {
+        "id": "10005",
+        "name": "Ferrero Rocher Premium Milk Chocolate (300g) ",
+        "overview": "Indulge in Ferrero Rocher Premium Milk Chocolate (300g)—a luxurious blend of crispy wafer, creamy hazelnut filling, and rich milk chocolate, perfect for gifting or treating yourself.",
+        "long_description": "Experience the irresistible taste of Ferrero Rocher Premium Milk Chocolate (300g). Each piece features a crunchy wafer shell, smooth hazelnut filling, and a delicate milk chocolate coating with finely chopped hazelnuts. Ideal for special occasions, celebrations, or personal indulgence, this elegantly packaged treat is a symbol of fine taste and premium quality.",
+        "price": 1,250,
+        "poster": "https://m.media-amazon.com/images/I/51A372WYL-L.SX300_SY300_QL70_FMwebp.jpg",
+        "image_local": "/assets/images/10005.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": "10006",
+        "name": "Blue lays",
+        "overview": "Enjoy the bold and spicy Lay’s India’s Magic Masala potato chips, packed with a unique blend of Indian spices for an irresistible crunch.",
+        "long_description": "Savor the flavorful and crunchy experience of Lay’s India’s Magic Masala potato chips, crafted with a perfect mix of spicy, tangy, and savory Indian spices. Each bite delivers an explosion of taste, making it the perfect snack for anytime cravings, parties, or movie nights.",
+        "price": 30,
+        "poster": "https://encrypted-tbn1.gstatic.com/shopping?q=tbn:ANd9GcROvs519ZgZuTRjuqJRppnrI3z6Kzq1A0qRUyahpXaem9gmEOl1NfwGY4AS2oXNH1qoIbHYgL3ApPQ0En0ysiThUIXNvv9qt5Scdqmpv2AlzIvV7i-owbBg",
+        "image_local": "/assets/images/10006.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 10,
+        "best_seller": false
+      },
+      {
+        "id": "10007",
+        "name": "Master the Code Review",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 325,
+        "poster": "https://images.unsplash.com/photo-1621839673705-6617adf9e890?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10007.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 2,
+        "best_seller": false
+      },
+      {
+        "id": "10008",
+        "name": "JavaScript Basics To Advance With Alex",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 550,
+        "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10008.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      },
+      {
+        "id": "10009",
+        "name": "Python Deep Dive With Projects",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 400,
+        "poster": "https://images.unsplash.com/photo-1624953587687-daf255b6b80a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10009.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": "10010",
+        "name": "Mastering Software Technique",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 450,
+        "poster": "https://images.unsplash.com/photo-1623479322729-28b25c16b011?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10010.avif",
+        "rating": 4,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false
+      },
+      {
+        "id": "10011",
+        "name": "Web Development Foundation",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 375,
+        "poster": "https://images.unsplash.com/photo-1507721999472-8ed4421c4af2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10011.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      },
+      {
+        "id": "10012",
+        "name": "Mastering Git and GitHub - A Practical Guide",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 420,
+        "poster": "https://images.unsplash.com/photo-1618401471353-b98afee0b2eb?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10012.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 1,
+        "best_seller": false
+      },
+      {
+        "id": "10013",
+        "name": "Everything About React v16",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 330,
+        "poster": "https://images.unsplash.com/photo-1633356122102-3fe601e05bd2?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10013.avif",
+        "rating": 4,
+        "in_stock": false,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": "10014",
+        "name": "Diving Deep With Python 2.7",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 380,
+        "poster": "https://images.unsplash.com/photo-1515879218367-8466d910aaa4?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10014.avif",
+        "rating": 4,
+        "in_stock": false,
+        "size": 3,
+        "best_seller": false
+      },
+      {
+        "id": "10015",
+        "name": "Kickstart Your UI Design Career",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 500,
+        "poster": "https://images.unsplash.com/photo-1587440871875-191322ee64b0?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10015.avif",
+        "rating": 2,
+        "in_stock": false,
+        "size": 1,
+        "best_seller": false
+      }
+    ],
+    "featured_products": [
+      {
+        "id": "10004",
+        "name": "The Complete Guide to Backend Development",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 220,
+        "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10004.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 7,
+        "best_seller": true
+      },
+      {
+        "id": "10006",
+        "name": "Frontend Fastlane Plan With Projects",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 275,
+        "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10006.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 10,
+        "best_seller": false
+      },
+      {
+        "id": "10008",
+        "name": "JavaScript Basics To Advance With Alex",
+        "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+        "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+        "price": 550,
+        "poster": "https://images.unsplash.com/photo-1613490900233-141c5560d75d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+        "image_local": "/assets/images/10008.avif",
+        "rating": 5,
+        "in_stock": true,
+        "size": 3,
+        "best_seller": true
+      }
+    ],
+    "orders": [
+      {
+        "cartList": [
+          {
+            "id": "10006",
+            "name": "Frontend Fastlane Plan With Projects",
+            "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+            "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+            "price": 275,
+            "poster": "https://images.unsplash.com/photo-1522542550221-31fd19575a2d?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+            "image_local": "/assets/images/10006.avif",
+            "rating": 5,
+            "in_stock": true,
+            "size": 10,
+            "best_seller": false
+          },
+          {
+            "id": "10004",
+            "name": "The Complete Guide to Backend Development",
+            "overview": "Lorem ipsum dolor sit amet consectetur adipisicing elit. Error unde quisquam magni vel eligendi nam.",
+            "long_description": "Lorem ipsum dolor sit amet consectetur, adipisicing elit. Soluta aut, vel ipsum maxime quam quia, quaerat tempore minus odio exercitationem illum et eos, quas ipsa aperiam magnam officiis libero expedita quo voluptas deleniti sit dolore? Praesentium tempora cumque facere consectetur quia, molestiae quam, accusamus eius corrupti laudantium aliquid! Tempore laudantium unde labore voluptates repellat, dignissimos aperiam ad ipsum laborum recusandae voluptatem non dolore. Reiciendis cum quo illum. Dolorem, molestiae corporis.",
+            "price": 220,
+            "poster": "https://images.unsplash.com/photo-1595617795501-9661aafda72a?ixlib=rb-1.2.1&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=650&q=40",
+            "image_local": "/assets/images/10004.avif",
+            "rating": 5,
+            "in_stock": true,
+            "size": 7,
+            "best_seller": true
+          }
+        ],
+        "amount_paid": 495,
+        "quantity": 2,
+        "user": {
+          "name": "Dhruvin",
+          "email": "dhruvindmehta@gmail.com",
+          "id": 1
+        },
+        "id": 1
+      }
+    ],
+    "users": [
+      {
+        "email": "dhruvindmehta@gmail.com",
+        "password": "$2a$10$02kaQ7Fw42t8Hw0yhX88h.Wotom3QVih3ta7I/oTESb6c3K1JZPDy",
+        "name": "Dhruvin",
+        "id": 1
+      }
+    ]
+  }
